@@ -7,3 +7,5 @@ In the future this project space will host at minimum an editor for modifying da
 ## Install
 
 Download and extract all of the planet heightmap files into the data/heightmaps directory of the SWG:ANH MMOServer project. After successfully building the project you will be able to load up the planets with their respective heightmap files.
+
+Download Heightmaps from https://github.com/anhstudios/swg-heightmaps/downloads
